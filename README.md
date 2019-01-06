@@ -10,7 +10,13 @@ Features include:
 
 Deployed at: https://notsoinstagram.herokuapp.com
 
+```
+Feel free to sign up yourself, or use the following details to log in
+email: test@insta.com
+password: password
 
+note - due to db restrictions on heroku, images become broken after 24hrs. newly uploaded images fully function.
+```
 ## Getting Started:
 
 ```
