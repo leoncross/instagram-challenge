@@ -2,10 +2,7 @@
 
 # Demo
 
-[![Not-so-Instagram](https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif](https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif)
-
-
-Gif of the website running: https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif
+https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif
 
 # Not So Instagram
 An instagram 'clone'. This was completed as part of a weekend challenege at Makers Academy.
