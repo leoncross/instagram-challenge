@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.com/leoncross/instagram-challenge.svg?branch=master)](https://travis-ci.com/leoncross/instagram-challenge)[![Coverage Status](https://coveralls.io/repos/github/leoncross/instagram-challenge/badge.svg?branch=master)](https://coveralls.io/github/leoncross/instagram-challenge?branch=master)
 
-![](https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif)
-
+Gif of the website running: https://media.giphy.com/media/9VkayoOENLWx1PZVZD/giphy.gif
 
 # Not So Instagram
 An instagram 'clone'. This was completed as part of a weekend challenege at Makers Academy.
